@@ -1,9 +1,27 @@
-body {
-  background-color: blue;
+html {
+  margin: 10px;
+  border-style: groove;
+  border-color: gold;
+  
 }
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+
 h1 {
-  color: lime;
+  color: gold;
  text-align: center;
  justify-content: center;
 
+}
+div {
+  margin: 100px 400px;
+  border: 5px;
+  border-color: silver;
+  border-style: inset;
+  color: gold;
+  text-align: center;
 }
