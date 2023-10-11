@@ -17,11 +17,47 @@ h1 {
  justify-content: center;
 
 }
-div {
+ div#bio {
   margin: 100px 400px;
   border: 5px;
   border-color: silver;
   border-style: inset;
+  color: gold;
+  text-align: center;
+}
+
+div#WGD {
+  margin: 100px 400px;
+  border: 5px;
+  border-color: red;
+  border-style: solid;
+  color: gold;
+  text-align: center;
+}
+
+div#GG {
+  margin: 100px 400px;
+  border: 5px;
+  border-color: blue;
+  border-style: dashed;
+  color: gold;
+  text-align: center;
+}
+
+div#PGD {
+  margin: 100px 400px;
+  border: 5px;
+  border-color: green;
+  border-style: double;
+  color: gold;
+  text-align: center;
+}
+
+div#DET {
+  margin: 100px 400px;
+  border: 5px;
+  border-color: white;
+  border-style: dotted;
   color: gold;
   text-align: center;
 }
